@@ -16,7 +16,7 @@
 (**********************************************************************)
 
 (**********************************************************************)
-(*                    Tuple Lambda Calculus                           *)
+(*                Delayed Substitution Lambda Calculu                 *)
 (*                                                                    *)
 (* is implemented in Coq by adapting the implementation of            *)
 (* Lambda Calculus from Project Coq                                   *)
@@ -24,7 +24,7 @@
 (**********************************************************************)
 
 (**********************************************************************)
-(*                    Tuple_reduction2.v                             *)
+(*                    Delayed_standardisation.v                       *)
 (*                                                                    *)
 (* adapted from Terms.v for Lambda Calculus                           *)
 (*                                                                    *)
