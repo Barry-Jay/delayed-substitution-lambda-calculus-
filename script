@@ -1,0 +1,6 @@
+coqc Delayed_Terms
+coqc Delayed_Tactics
+coqc Delayed_Tactics
+coqc Delayed_reduction
+coqc Delayed_Normal
+coqc Delayed_standardisation

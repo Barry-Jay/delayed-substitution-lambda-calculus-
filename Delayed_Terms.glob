@@ -1,0 +1,140 @@
+DIGEST d4317f67fb74e525fece140625b338ae
+FDelayed_Terms
+R2283:2287 Coq.omega.Omega <> <> lib
+R2289:2292 Test <> <> lib
+R2325:2329 Coq.Init.Logic <> False ind
+ind 2427:2432 <> lambda
+constr 2445:2448 <> Unit
+constr 2462:2465 <> Pair
+constr 2497:2499 <> Ref
+constr 2530:2532 <> Abs
+constr 2557:2559 <> App
+R2453:2458 Delayed_Terms <> lambda ind
+R2488:2493 Delayed_Terms <> lambda ind
+R2478:2483 Delayed_Terms <> lambda ind
+R2468:2473 Delayed_Terms <> lambda ind
+R2520:2525 Delayed_Terms <> lambda ind
+R2510:2515 Delayed_Terms <> lambda ind
+R2503:2505 Coq.Init.Datatypes <> nat ind
+R2546:2551 Delayed_Terms <> lambda ind
+R2536:2541 Delayed_Terms <> lambda ind
+R2583:2588 Delayed_Terms <> lambda ind
+R2573:2578 Delayed_Terms <> lambda ind
+R2563:2568 Delayed_Terms <> lambda ind
+def 2621:2628 <> relocate
+R2637:2639 Coq.Init.Datatypes <> nat ind
+R2653:2656 Test <> test def
+R2660:2660 Delayed_Terms <> i var
+R2658:2658 Delayed_Terms <> k var
+R2689:2692 Coq.Init.Specif <> left constr
+R2699:2699 Coq.Init.Datatypes <> S constr
+R2701:2701 Delayed_Terms <> i var
+R2724:2724 Delayed_Terms <> i var
+prf 2741:2753 <> relocate_succ
+R2791:2793 Coq.Init.Logic <> :type_scope:x_'='_x not
+R2770:2777 Delayed_Terms <> relocate def
+R2786:2786 Coq.Init.Datatypes <> S constr
+R2788:2789 Delayed_Terms <> n0 var
+R2780:2780 Coq.Init.Datatypes <> S constr
+R2782:2782 Delayed_Terms <> n var
+R2794:2794 Coq.Init.Datatypes <> S constr
+R2796:2803 Delayed_Terms <> relocate def
+R2807:2808 Delayed_Terms <> n0 var
+R2805:2805 Delayed_Terms <> n var
+R2835:2842 Delayed_Terms <> relocate def
+R2850:2853 Test <> test def
+R2862:2862 Coq.Init.Datatypes <> S constr
+R2855:2855 Coq.Init.Datatypes <> S constr
+R2874:2877 Test <> test def
+R2908:2912 Coq.Init.Logic <> False ind
+R2850:2853 Test <> test def
+R2862:2862 Coq.Init.Datatypes <> S constr
+R2855:2855 Coq.Init.Datatypes <> S constr
+R2874:2877 Test <> test def
+R2874:2877 Test <> test def
+R2908:2912 Coq.Init.Logic <> False ind
+R2908:2912 Coq.Init.Logic <> False ind
+def 2957:2964 <> lift_rec
+R2971:2976 Delayed_Terms <> lambda ind
+R2988:2993 Delayed_Terms <> lambda ind
+R2981:2983 Coq.Init.Datatypes <> nat ind
+R3008:3010 Coq.Init.Datatypes <> nat ind
+R3023:3023 Delayed_Terms <> L var
+R3036:3039 Delayed_Terms <> Unit constr
+R3045:3048 Delayed_Terms <> Unit constr
+R3056:3059 Delayed_Terms <> Pair constr
+R3068:3071 Delayed_Terms <> Pair constr
+R3089:3096 Delayed_Terms <> lift_rec def
+R3100:3100 Delayed_Terms <> k var
+R3074:3081 Delayed_Terms <> lift_rec def
+R3085:3085 Delayed_Terms <> k var
+R3109:3111 Delayed_Terms <> Ref constr
+R3120:3122 Delayed_Terms <> Ref constr
+R3140:3147 Delayed_Terms <> lift_rec def
+R3151:3151 Delayed_Terms <> k var
+R3125:3132 Delayed_Terms <> relocate def
+R3136:3136 Delayed_Terms <> k var
+R3160:3162 Delayed_Terms <> Abs constr
+R3169:3171 Delayed_Terms <> Abs constr
+R3174:3181 Delayed_Terms <> lift_rec def
+R3186:3186 Coq.Init.Datatypes <> S constr
+R3188:3188 Delayed_Terms <> k var
+R3198:3200 Delayed_Terms <> App constr
+R3209:3211 Delayed_Terms <> App constr
+R3229:3236 Delayed_Terms <> lift_rec def
+R3240:3240 Delayed_Terms <> k var
+R3214:3221 Delayed_Terms <> lift_rec def
+R3225:3225 Delayed_Terms <> k var
+def 3262:3265 <> lift
+R3272:3277 Delayed_Terms <> lambda ind
+R3283:3290 Delayed_Terms <> lift_rec def
+R3292:3292 Delayed_Terms <> N var
+prf 3305:3317 <> lift_lift_rec
+R3334:3339 Delayed_Terms <> lambda ind
+R3349:3351 Coq.Init.Datatypes <> nat ind
+R3396:3398 Coq.Init.Logic <> :type_scope:x_'='_x not
+R3367:3374 Delayed_Terms <> lift_rec def
+R3392:3392 Coq.Init.Datatypes <> S constr
+R3394:3394 Delayed_Terms <> n var
+R3377:3384 Delayed_Terms <> lift_rec def
+R3388:3388 Delayed_Terms <> i var
+R3386:3386 Delayed_Terms <> U var
+R3399:3406 Delayed_Terms <> lift_rec def
+R3423:3423 Delayed_Terms <> i var
+R3409:3416 Delayed_Terms <> lift_rec def
+R3420:3420 Delayed_Terms <> n var
+R3418:3418 Delayed_Terms <> U var
+R3357:3360 Coq.Init.Peano <> :nat_scope:x_'<='_x not
+R3356:3356 Delayed_Terms <> i var
+R3361:3361 Delayed_Terms <> n var
+R3544:3551 Delayed_Terms <> relocate def
+R3559:3562 Test <> test def
+R3559:3562 Test <> test def
+R3601:3604 Test <> test def
+R3601:3604 Test <> test def
+R3644:3647 Test <> test def
+R3657:3657 Coq.Init.Datatypes <> S constr
+R3650:3650 Coq.Init.Datatypes <> S constr
+R3644:3647 Test <> test def
+R3657:3657 Coq.Init.Datatypes <> S constr
+R3650:3650 Coq.Init.Datatypes <> S constr
+R3695:3698 Test <> test def
+R3703:3703 Coq.Init.Datatypes <> S constr
+R3695:3698 Test <> test def
+R3703:3703 Coq.Init.Datatypes <> S constr
+R3759:3762 Test <> test def
+R3772:3772 Coq.Init.Datatypes <> S constr
+R3765:3765 Coq.Init.Datatypes <> S constr
+R3759:3762 Test <> test def
+R3772:3772 Coq.Init.Datatypes <> S constr
+R3765:3765 Coq.Init.Datatypes <> S constr
+R3810:3813 Test <> test def
+R3810:3813 Test <> test def
+R3870:3873 Test <> test def
+R3870:3873 Test <> test def
+R3913:3916 Test <> test def
+R3919:3919 Coq.Init.Datatypes <> S constr
+R3913:3916 Test <> test def
+R3919:3919 Coq.Init.Datatypes <> S constr
+R3960:3963 Test <> test def
+R3960:3963 Test <> test def
